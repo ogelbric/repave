@@ -11,4 +11,10 @@ Burger Menu -> Administration -> vCenter Server Extentions -> vSphere ESX Agent 
 Watch in vCenter supervisor VM being delete and then re-build
 Repeate for the other 2 supervisor VM's (when selecting the supervisor VM the ESX Agency name shows up in the Notes section) 
 
+# repave guest cluster
+
+```
+https://knowledge.broadcom.com/external/article?legacyId=91185
+```
+
 
